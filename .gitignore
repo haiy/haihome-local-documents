@@ -1,0 +1,7 @@
+build.noindex/
+work/
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
+*-change.json
